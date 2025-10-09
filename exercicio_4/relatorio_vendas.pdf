@@ -1,0 +1,17 @@
+=== RELATÓRIO BÁSICO: PEDIDOS ===
+- P-1001 | 2025-10-01 | R$ 120,00
+- P-1002 | 2025-10-02 | R$ 250,50
+- P-1003 | 2025-10-03 | R$ 80,90
+
+--- ESTATÍSTICAS ---
+Qtd pedidos: 3
+Faturamento total: R$ 451,40
+Ticket médio: R$ 150,47
+Maior pedido: R$ 250,50
+Menor pedido: R$ 80,90
+
+--- GRÁFICO ASCII (valores) ---
+P-1001 | ############ R$ 120,00
+P-1002 | ######################### R$ 250,50
+P-1003 | ######## R$ 80,90
+
